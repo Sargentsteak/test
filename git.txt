@@ -1,0 +1,8 @@
+git init
+git add<files>
+git status
+git cmommit 
+git push
+git pull
+git config -global user.name "name"
+git config -global user.name "email"
